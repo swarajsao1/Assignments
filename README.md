@@ -1,2 +1,2 @@
-# PH354
+# Assignments
 Assignments and Project
